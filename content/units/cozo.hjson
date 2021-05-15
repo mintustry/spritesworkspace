@@ -1,0 +1,16 @@
+name: Cozo
+description: sprite one
+type: flying
+speed: 5
+mineTier: 100
+accel: 100e+1000
+itemCapacity: 1
+drag: 1
+flying: true
+hitSize: 12
+engineSize: 5
+armor: 2
+health: 100e+100
+engineOffset: 13
+rotateSpeed: 100e+1000
+targetAir: true
