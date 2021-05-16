@@ -3,7 +3,7 @@ description: sprite one
 type: flying
 speed: 5
 mineTier: 100
-accel: 0.09
+accel: 0.04
 itemCapacity: 120
 drag: 0.04
 flying: true
