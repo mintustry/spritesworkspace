@@ -14,6 +14,7 @@ health: 850
 engineOffset: 8
 rotateSpeed: 9
 targetAir: true
+range: 130
 weapons:[
 {
 name: weapon1
