@@ -7,7 +7,7 @@ accel: 0.04
 itemCapacity: 120
 drag: 0.04
 flying: true
-hitSize: 12
+hitSize: 18
 engineSize: 5
 armor: 2
 health: 850
@@ -30,7 +30,7 @@ name: weapon1
   bullet: {
     type: LaserBulletType
     length: 90
-    damage: 60
+    damage: 15
     shootEffect: shootSmall
     hitColor: ec7458
     colors: [ec7458, ff9c5a, ffffff]
