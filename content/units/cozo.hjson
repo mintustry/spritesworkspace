@@ -20,7 +20,7 @@ name: weapon1
   x: 9
   y: 0
   shots: 1
-  shootY: -1
+  shootY: 3
   reload: 10
   ejectEffect: none
   recoil: 3
@@ -29,13 +29,13 @@ name: weapon1
   top: false
   bullet: {
     type: LaserBulletType
-    length: 30
-    damage: 15
+    length: 120
+    damage: 60
     shootEffect: shootSmall
     hitColor: e88ec9
     color: e88ec9
     despawnEffect: none
-    lifetime: 65
+    lifetime: 30
     width: 8
     knockback: 0
     }
