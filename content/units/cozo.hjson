@@ -5,7 +5,7 @@ speed: 5
 mineTier: 100
 accel: 0.21
 itemCapacity: 120
-drag: 0.25
+drag: 0.04
 flying: true
 hitSize: 12
 engineSize: 5
@@ -20,7 +20,7 @@ name: weapon1
   x: 9
   y: 0
   shots: 1
-  shootY: 4
+  shootY: 6
   reload: 10
   ejectEffect: none
   recoil: 3
