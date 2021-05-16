@@ -30,7 +30,7 @@ name: weapon1
   bullet: {
     type: LaserBulletType
     length: 90
-    damage: 15
+    damage: 35
     shootEffect: shootSmall
     hitColor: ec7458
     colors: [ec7458, ff9c5a, ffffff]
