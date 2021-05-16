@@ -3,7 +3,7 @@ description: sprite one
 type: flying
 speed: 5
 mineTier: 100
-accel: 0.75
+accel: 0.21
 itemCapacity: 120
 drag: 0.25
 flying: true
@@ -12,7 +12,7 @@ engineSize: 5
 armor: 2
 health: 3000
 engineOffset: 8
-rotateSpeed: 25
+rotateSpeed: 5
 targetAir: true
 weapons:[
 {
