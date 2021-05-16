@@ -11,6 +11,6 @@ hitSize: 12
 engineSize: 5
 armor: 2
 health: 100e+100
-engineOffset: 13
+engineOffset: 8
 rotateSpeed: 100e+1000
 targetAir: true
