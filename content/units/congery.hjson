@@ -4,7 +4,7 @@ type: flying
 speed: 3
 mineTier: 100
 accel: 0.04
-itemCapacity: 120
+itemCapacity: 150
 drag: 0.04
 flying: true
 hitSize: 18
