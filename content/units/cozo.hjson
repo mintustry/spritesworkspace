@@ -17,7 +17,7 @@ targetAir: true
 weapons:[
 {
 name: weapon1
-  x: 5
+  x: 9
   y: 0
   shots: 1
   shootY: -1
