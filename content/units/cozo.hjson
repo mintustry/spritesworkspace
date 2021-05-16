@@ -10,7 +10,7 @@ flying: true
 hitSize: 12
 engineSize: 5
 armor: 2
-health: 3000
+health: 850
 engineOffset: 8
 rotateSpeed: 9
 targetAir: true
@@ -33,7 +33,7 @@ name: weapon1
     damage: 60
     shootEffect: shootSmall
     hitColor: ec7458
-    color: ff9c5a
+    colors: [ec7458, ff9c5a, ffffff]
     despawnEffect: none
     lifetime: 30
     width: 8
