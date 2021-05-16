@@ -25,7 +25,7 @@ name: weapon1
   ejectEffect: none
   recoil: 3
   mirror: true
-  shootSound: bang
+  shootSound: laser
   top: false
   bullet: {
     type: LaserBulletType
