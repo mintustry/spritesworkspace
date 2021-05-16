@@ -1,7 +1,7 @@
 name: Congery
 description: a sharp medium ship that shoot piercing laser
 type: flying
-speed: 5
+speed: 3
 mineTier: 100
 accel: 0.04
 itemCapacity: 120
