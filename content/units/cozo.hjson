@@ -14,6 +14,7 @@ health: 100e+100
 engineOffset: 8
 rotateSpeed: 100e+1000
 targetAir: true
+weapons:[
 {
 name: weapon1
   x: 3
