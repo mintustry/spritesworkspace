@@ -1,0 +1,26 @@
+name: Large Dersite wall
+description: a larger variant of a dersite wall
+type: ForceProjector
+health: 3440
+size: 2
+radius: 20
+consumes: {
+  items: {
+    items: [
+      dersite/1
+    ]
+  }
+}
+itemCapacity: 0
+liquidCapacity: 0
+hasPower: false
+shieldHealth: 1200
+cooldownNormal: 2
+cooldownLiquid: 2.5
+cooldownBrokenBase: 5
+basePowerDraw: 0.2
+requirements: [
+  dersite/24
+]
+category: defense
+research: dersite-wall
