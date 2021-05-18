@@ -3,9 +3,8 @@ description: a magnetic wall that deflect projectiles
 type: ForceProjector
 health: 860
 size: 1
-radius: 100
+radius: 10
 consumes: {
-  power: 0
   items: {
     items: [
       dersite/1
