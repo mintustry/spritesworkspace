@@ -9,10 +9,10 @@ consumes: {
     items: [
       dersite/1
     ]
-    optional: true
   }
 }
 hasItems: false
+hasPower: false
 shieldHealth: 700
 cooldownNormal: 1
 cooldownLiquid: 1.5
