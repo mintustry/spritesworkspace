@@ -1,6 +1,6 @@
 name: Dersite wall
 description: a magnetic wall that deflect projectiles
-type: wall
+type: ForceProjector
 health: 860
 size: 1
 radius: 100
