@@ -11,7 +11,8 @@ consumes: {
     ]
   }
 }
-hasItems: false
+itemCapacity: 0
+liquidCapacity: 0
 hasPower: false
 shieldHealth: 700
 cooldownNormal: 1
