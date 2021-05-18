@@ -1,5 +1,5 @@
 name: Dersite wall
-description: a magnetic wall that deflect projectiles
+description: A magnetic wall that deflect piercing projectiles
 type: ForceProjector
 health: 860
 size: 1
