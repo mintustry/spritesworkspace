@@ -1,0 +1,16 @@
+name: Dersite wall
+description: a magnetic wall that deflect projectiles
+type: wall
+health: 860
+size: 1
+radius: 100
+shieldHealth: 700
+cooldownNormal: 1
+cooldownLiquid: 1.5
+cooldownBrokenBase: 3.5
+basePowerDraw: 0.2
+requirements: [
+  dersite/6
+]
+category: defense
+research: dersite
