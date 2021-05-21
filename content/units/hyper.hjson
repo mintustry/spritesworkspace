@@ -13,6 +13,7 @@ rotateSpeed: 3
 canDrown: false
 targetAir: true
 range: 130
+boostMultiplier: 2
 weapons:[
 {
 name: heal-array
