@@ -13,3 +13,28 @@ rotateSpeed: 3
 canDrown: false
 targetAir: true
 range: 130
+weapons:[
+{
+name: heal-array
+  x: 9
+  y: 0
+  shots: 1
+  shootY: 6
+  reload: 13.5
+  ejectEffect: none
+  recoil: 3
+  mirror: true
+  shootSound: laser
+  top: false
+  bullet: {
+    type: LaserBoltBulletType
+    shootEffect: shootSmall
+    despawnEffect: none
+    lifetime: 15
+    collidesTeam: true
+    knockback: 0
+    length: 7
+    width: 6
+    }
+  }
+]
