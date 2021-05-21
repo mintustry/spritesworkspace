@@ -39,6 +39,8 @@ name: heal-array
     width: 6
     inaccuracy: 3
     shotDelay: 4
+    backColor:98ffa9
+    frontColor: ffffff
     }
   }
 ]
