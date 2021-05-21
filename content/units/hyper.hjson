@@ -1,0 +1,15 @@
+name: Hyper
+description: A support array unit
+type: mech
+speed: 0.3
+itemCapacity: 150
+canBoost: true
+hitSize: 19
+engineSize: 5
+armor: 11
+health: 10500
+engineOffset: 8
+rotateSpeed: 3
+canDrown: false
+targetAir: true
+range: 130
