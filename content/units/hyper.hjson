@@ -20,6 +20,7 @@ name: heal-array
   y: 0
   shots: 3
   shootY: 6
+  shotDelay: 4
   reload: 45
   ejectEffect: none
   recoil: 3
