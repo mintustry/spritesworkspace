@@ -48,7 +48,6 @@ name: heal-array
       lightning: 2
       lightningLength: 6
       lightningColor: 98ffa9
-      lightningDamage: 19
       healPercent: 2.5
     }
   }
