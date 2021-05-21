@@ -49,6 +49,9 @@ name: heal-array
       lightningLength: 6
       lightningColor: 98ffa9
       healPercent: 2.5
+      collidesTeam: true
+      backColor: 98ffa9
+      frontColor: ffffff
       }
     }
   }
