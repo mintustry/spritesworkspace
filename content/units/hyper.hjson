@@ -42,10 +42,15 @@ name: heal-array
     shotDelay: 4
     backColor: 98ffa9
     frontColor: ffffff
-    lightning: 2
-    lightningLength: 6
-    lightningColor: 98ffa9
-    lightningDamage: 19
+    fragBullets: 16
+    fragBullet: {
+      type: LaserBulletType
+      lightning: 2
+      lightningLength: 6
+      lightningColor 98ffa9
+      lightningDamage: 19
+      healPercent: 2.5
+      }
     }
   }
 ]
