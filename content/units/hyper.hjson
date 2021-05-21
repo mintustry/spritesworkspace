@@ -43,6 +43,7 @@ name: heal-array
     shotDelay: 4
     backColor: 98ffa9
     frontColor: ffffff
+    damage: 40
     fragBullets: 2
     fragBullet: {
       type: LaserBoltBulletType
@@ -53,6 +54,8 @@ name: heal-array
       collidesTeam: true
       backColor: 98ffa9
       width: 2
+      lightningDamage: 14
+      damage: 40
       height: 7
       frontColor: ffffff
       }
