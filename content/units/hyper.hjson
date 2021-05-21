@@ -21,9 +21,9 @@ name: heal-array
   shots: 3
   shootY: 6
   shotDelay: 4
-  reload: 45
+  reload: 30
   ejectEffect: none
-  recoil: 3
+  recoil: 6
   mirror: true
   shootSound: laser
   top: false
@@ -32,7 +32,8 @@ name: heal-array
     type: LaserBoltBulletType
     shootEffect: shootSmall
     despawnEffect: none
-    lifetime: 15
+    lifetime: 30
+    healPercent: 5
     collidesTeam: true
     knockback: 0
     length: 7
