@@ -44,7 +44,7 @@ name: heal-array
     frontColor: ffffff
     fragBullets: 16
     fragBullet: {
-      type: LaserBulletType
+      type: lightningType
       lightning: 2
       lightningLength: 6
       lightningColor: 98ffa9
