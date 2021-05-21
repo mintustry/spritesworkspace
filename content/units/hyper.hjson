@@ -16,7 +16,7 @@ range: 130
 weapons:[
 {
 name: heal-array
-  x: 13
+  x: 16
   y: 0
   shots: 1
   shootY: 6
