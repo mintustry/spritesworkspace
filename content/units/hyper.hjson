@@ -25,7 +25,7 @@ name: heal-array
   ejectEffect: none
   recoil: 6
   mirror: true
-  shootSound: laser
+  shootSound: lasershoot
   top: false
   bullet: {
     speed: 7
@@ -40,8 +40,12 @@ name: heal-array
     width: 6
     inaccuracy: 3
     shotDelay: 4
-    backColor:98ffa9
+    backColor: 98ffa9
     frontColor: ffffff
+    lightning: 2
+    lightningLength: 6
+    lightningColor: 98ffa9
+    lightningDamage: 19
     }
   }
 ]
