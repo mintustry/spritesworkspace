@@ -4,7 +4,7 @@ type: mech
 speed: 0.3
 itemCapacity: 150
 canBoost: true
-hitSize: 19
+hitSize: 17
 engineSize: 5
 armor: 11
 health: 10500
