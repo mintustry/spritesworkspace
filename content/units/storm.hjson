@@ -1,0 +1,17 @@
+name: Storm
+description: nboat
+type: mech
+speed: 1.1
+itemCapacity: 35
+canBoost: true
+hitSize: 17
+engineSize: 5
+armor: 11
+health: 10500
+engineOffset: 8
+rotateSpeed: 3
+canDrown: false
+targetAir: true
+buildSpeed: 1
+range: 130
+boostMultiplier: 2
