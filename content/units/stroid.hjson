@@ -1,0 +1,44 @@
+
+name: Stroid
+description: ruh
+type: flying
+speed: 3
+accel: 0.04
+itemCapacity: 80
+drag: 0.04
+flying: true
+hitSize: 18
+engineSize: 5
+armor: 2
+health: 850
+engineOffset: 8
+rotateSpeed: 9
+targetAir: true
+range: 130
+weapons:[
+{
+name: weapon1
+  x: 9
+  y: 0
+  shots: 1
+  shootY: 6
+  reload: 13.5
+  ejectEffect: none
+  recoil: 3
+  mirror: true
+  shootSound: laser
+  top: false
+  bullet: {
+    type: LaserBulletType
+    length: 90
+    damage: 35
+    shootEffect: shootSmall
+    hitColor: ec7458
+    colors: [ec7458, ff9c5a, ffffff]
+    despawnEffect: none
+    lifetime: 15
+    width: 10
+    knockback: 0
+    }
+  }
+]
