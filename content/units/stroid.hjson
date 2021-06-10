@@ -28,16 +28,16 @@ name: mend-spray
   mirror: false
   top: false
   bullet: {
-    type: BulletType
+    type: ArtilleryBulletType
     hitSize: 7
     damage: 35
     shootEffect: shootSmallFlame
     hitEffect: hitFlameSmall
-    
     despawnEffect: none
     lifetime: 15
     knockback: 0
-    hittable: true
+    width: 10
+    height: 10
     }
   }
 ]
