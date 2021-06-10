@@ -49,6 +49,7 @@ name: mend-spray
         colorFrom: FFFFFF
         colorTo: FFFFFF
       }
+      ]
     }
   }
 ]
