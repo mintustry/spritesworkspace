@@ -48,7 +48,7 @@ name: mend-spray
         lifetime: 50
         colorFrom: FFFFFF
         colorTo: FFFFFF
-      }
+        }
       ]
     }
   }
