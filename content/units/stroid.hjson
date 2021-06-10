@@ -22,7 +22,7 @@ name: mend-spray
   y: 0
   shots: 1
   shootY: 1
-  reload: 13.5
+  reload: 2
   ejectEffect: none
   recoil: 3
   mirror: false
