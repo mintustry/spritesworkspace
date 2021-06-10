@@ -28,7 +28,7 @@ name: mend-spray
   mirror: false
   top: false
   bullet: {
-    type: ArtilleryBulletType
+    type: BasicBulletType
     hitSize: 7
     damage: 35
     shootEffect: shootSmallFlame
@@ -38,6 +38,17 @@ name: mend-spray
     knockback: 0
     width: 10
     height: 10
+    shootEffect: [
+      {
+        type: ParticleEffect
+        particles: 30
+        sizeFrom: 10
+        sizeTo: 0
+        length: 70
+        lifetime: 50
+        colorFrom: FFFFFF
+        colorTo: FFFFFF
+      }
     }
   }
 ]
