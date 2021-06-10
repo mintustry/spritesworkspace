@@ -29,15 +29,14 @@ name: mend-spray
   shootSound: laser
   top: false
   bullet: {
-    type: LaserBulletType
-    length: 90
+    type: BulletType
+    hitSize: 7
     damage: 35
-    shootEffect: shootSmall
+    shootEffect: shootSmallFlame
     hitColor: ec7458
     colors: [ec7458, ff9c5a, ffffff]
     despawnEffect: none
     lifetime: 15
-    width: 10
     knockback: 0
     }
   }
