@@ -41,12 +41,13 @@ name: mend-spray
     shootEffect: {
       type: ParticleEffect
       particles: 30
-      sizeFrom: 10
+      sizeFrom: 1
       sizeTo: 0
       length: 70
       lifetime: 50
       colorFrom: FFFFFF
       colorTo: FFFFFF
+      cone: 50
       }
     }
   }
