@@ -26,18 +26,18 @@ name: mend-spray
   ejectEffect: none
   recoil: 3
   mirror: false
-  shootSound: laser
   top: false
   bullet: {
     type: BulletType
     hitSize: 7
     damage: 35
     shootEffect: shootSmallFlame
-    hitColor: ec7458
-    colors: [ec7458, ff9c5a, ffffff]
+    hitEffect: hitFlameSmall
+    
     despawnEffect: none
     lifetime: 15
     knockback: 0
+    hittable: true
     }
   }
 ]
