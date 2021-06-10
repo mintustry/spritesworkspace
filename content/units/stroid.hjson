@@ -38,18 +38,16 @@ name: mend-spray
     knockback: 0
     width: 10
     height: 10
-    shootEffect: [
-      {
-        type: ParticleEffect
-        particles: 30
-        sizeFrom: 10
-        sizeTo: 0
-        length: 70
-        lifetime: 50
-        colorFrom: FFFFFF
-        colorTo: FFFFFF
-        }
-      ]
+    shootEffect: {
+      type: ParticleEffect
+      particles: 30
+      sizeFrom: 10
+      sizeTo: 0
+      length: 70
+      lifetime: 50
+      colorFrom: FFFFFF
+      colorTo: FFFFFF
+      }
     }
   }
 ]
