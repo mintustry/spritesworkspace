@@ -1,0 +1,66 @@
+
+name: aasdasdad
+description: dadasdsaddasdas
+type: mech
+speed: 0.3
+itemCapacity: 150
+canBoost: true
+hitSize: 17
+engineSize: 5
+armor: 11
+health: 10500
+engineOffset: 8
+rotateSpeed: 3
+canDrown: false
+targetAir: true
+buildSpeed: 1
+range: 130
+boostMultiplier: 2
+weapons:[
+{
+name: heal-array
+  x: 15
+  y: 0
+  shots: 3
+  shootY: 6
+  shotDelay: 4
+  reload: 30
+  ejectEffect: none
+  recoil: 6
+  mirror: true
+  shootSound: lasershoot
+  top: false
+  bullet: {
+    speed: 7
+    type: LaserBoltBulletType
+    shootEffect: shootSmall
+    despawnEffect: none
+    lifetime: 30
+    healPercent: 5
+    collidesTeam: true
+    knockback: 0
+    length: 7
+    width: 6
+    inaccuracy: 3
+    shotDelay: 4
+    backColor: 98ffa9
+    frontColor: ffffff
+    damage: 40
+    fragBullets: 2
+    fragBullet: {
+      type: LaserBoltBulletType
+      lightning: 2
+      lightningLength: 6
+      lightningColor: 98ffa9
+      healPercent: 2.5
+      collidesTeam: true
+      backColor: 98ffa9
+      width: 2
+      lightningDamage: 14
+      damage: 20
+      height: 7
+      frontColor: ffffff
+      }
+    }
+  }
+]
